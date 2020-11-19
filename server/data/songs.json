@@ -32,6 +32,23 @@
     "title": "Heartless",
     "artist": "Kanye West",
     "releaseDate": "2008"
+  },
+  {
+    "id": 6,
+    "title": "To Zanarkand",
+    "artist": "Nobuo Uematsu",
+    "releaseDate": "2012"
+  },
+  {
+    "id": 7,
+    "title": "Thunderstruck",
+    "artist": "ACDC",
+    "releaseDate": "1990"
+  },
+  {  
+    "id": 8,
+    "title": "Kill this Love",
+    "artist": "BLACKPINK",
+    "releaseDate": "2019"
   }
 ]
-
