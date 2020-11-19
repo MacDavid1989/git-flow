@@ -27,11 +27,36 @@
     "artist": "Vulfpeck",
     "releaseDate": "2017"
   },
+  
+  {
+    "id": 5,
+    "title": "Heartless",
+    "artist": "Kanye West",
+    "releaseDate": "2008"
+  },
+  {
+    "id": 6,
+    "title": "To Zanarkand",
+    "artist": "Nobuo Uematsu",
+    "releaseDate": "2012"
+  },
   {
     "id": 7,
+    "title": "Thunderstruck",
+    "artist": "ACDC",
+    "releaseDate": "1990"
+  },
+  {  
+    "id": 8,
+    "title": "Kill this Love",
+    "artist": "BLACKPINK",
+    "releaseDate": "2019"
+  },
+  {
+
+    "id": 9,
     "title": "New Song",
     "artist": "Not by me",
     "releaseDate": "2020"
   }
 ]
-
