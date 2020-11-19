@@ -27,6 +27,7 @@
     "artist": "Vulfpeck",
     "releaseDate": "2017"
   },
+  
   {
     "id": 5,
     "title": "Heartless",
@@ -50,5 +51,12 @@
     "title": "Kill this Love",
     "artist": "BLACKPINK",
     "releaseDate": "2019"
+  },
+  {
+
+    "id": 9,
+    "title": "New Song",
+    "artist": "Not by me",
+    "releaseDate": "2020"
   }
 ]
